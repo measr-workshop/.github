@@ -1,4 +1,4 @@
-# Applied diagnostic classification models with measr <img src="figures/logo.png" align ="right" width="120"/>
+# Applied diagnostic classification modeling with measr <img src="figures/logo.png" align ="right" width="120"/>
 
 measr is an R package designed to facilitate the estimation and evaluation of diagnostic classification models (DCMs; also called cognitive diagnostic models [CDMs]).
 measr wraps the [Stan probabilistic programming language](https://mc-stan.org) to provide fully Bayesian methods for fitting models and evaluating model fit.
